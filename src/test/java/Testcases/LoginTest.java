@@ -9,7 +9,7 @@ import utilities.DataProviderClass;
 public class LoginTest extends BaseTest{
 
 	
-	@Test(dataProvider = "excelData", dataProviderClass = DataProviderClass.class)
+	@Test(dataProvider = "excelData", dataProviderClass = DataProviderClass.class,retryAnalyzer = utilities.RetryAnalyzer.class)
 	public void loginTest(String user, String pass) {
 	    LoginTestpage loginPage = new LoginTestpage(getDriver());
 	   
