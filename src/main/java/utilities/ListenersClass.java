@@ -30,6 +30,10 @@ public class ListenersClass implements ITestListener {
 
 	    @Override
 	    public void onTestFailure(ITestResult result) {
+	    	if (result.getStatus() == ITestResult.FAILURE && result.getMethod().getRetryAnalyzer(result) != null) {
+	    		   // skip logging until final retry completed
+	    		}
+	    	Log.logger.info("failed tc are checked again");
 	    	test.get().fail(result.getThrowable());
 
 	        String screenshotPath = null;

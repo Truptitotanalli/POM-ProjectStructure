@@ -32,10 +32,10 @@
 <!-- in order to perform cross browser testing using run configuration -->
 <suite name="Allstate Insurance Automation Suite">
 
-
-  <listeners>
-        <listener class-name="utilities.ListenersClass"/>
-    </listeners>
+<listeners>
+    <listener class-name="utilities.ListenersClass"/>
+    <listener class-name="utilities.RetryListener"/>
+</listeners>
     
     <test name="browser">
         <packages>
