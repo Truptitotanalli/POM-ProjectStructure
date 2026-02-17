@@ -1,0 +1,19 @@
+package Testcases;
+
+import org.testng.annotations.Test;
+
+import Baseclass.BaseTest;
+import POM.LoginTestpage;
+import utilities.DataProviderClass;
+
+public class LoginTest extends BaseTest{
+
+	
+	@Test(dataProvider = "excelData", dataProviderClass = DataProviderClass.class)
+	public void loginTest(String user, String pass) {
+	    LoginTestpage loginPage = new LoginTestpage(getDriver());
+	   
+	    loginPage.login(user, pass);
+	}
+	
+}

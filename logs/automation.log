@@ -1,0 +1,99 @@
+2026-02-16 20:56:29 [main] INFO  Log - Browser setup started
+2026-02-16 20:56:30 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:56:33 [main] INFO  Log - Launching browser
+2026-02-16 20:56:41 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:56:47 [main] INFO  Log - Closing browser
+2026-02-16 20:56:47 [main] INFO  Log - Browser setup started
+2026-02-16 20:56:47 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:56:49 [main] INFO  Log - Launching browser
+2026-02-16 20:56:51 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:56:54 [main] INFO  Log - Closing browser
+2026-02-16 20:56:54 [main] INFO  Log - Browser setup started
+2026-02-16 20:56:54 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:56:56 [main] INFO  Log - Launching browser
+2026-02-16 20:56:58 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:57:00 [main] INFO  Log - Closing browser
+2026-02-16 20:57:00 [main] INFO  Log - Browser setup started
+2026-02-16 20:57:00 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:57:02 [main] INFO  Log - Launching browser
+2026-02-16 20:57:11 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:57:17 [main] INFO  Log - Closing browser
+2026-02-16 20:57:17 [main] INFO  Log - Browser setup started
+2026-02-16 20:57:17 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:57:19 [main] INFO  Log - Launching browser
+2026-02-16 20:57:21 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:57:24 [main] INFO  Log - Closing browser
+2026-02-16 20:57:24 [main] INFO  Log - Browser setup started
+2026-02-16 20:57:24 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:57:25 [main] INFO  Log - Launching browser
+2026-02-16 20:57:28 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:57:30 [main] INFO  Log - Closing browser
+2026-02-16 20:57:30 [main] INFO  Log - Browser setup started
+2026-02-16 20:57:30 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:57:32 [main] INFO  Log - Launching browser
+2026-02-16 20:57:35 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:57:37 [main] INFO  Log - Closing browser
+2026-02-16 20:57:37 [main] INFO  Log - Browser setup started
+2026-02-16 20:57:37 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:57:38 [main] INFO  Log - Launching browser
+2026-02-16 20:57:42 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:57:48 [main] INFO  Log - Closing browser
+2026-02-16 20:57:48 [main] INFO  Log - Browser setup started
+2026-02-16 20:57:48 [main] INFO  Log - Browser selected: firefox
+2026-02-16 20:57:50 [main] INFO  Log - Launching browser
+2026-02-16 20:57:53 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-16 20:58:00 [main] INFO  Log - Closing browser
+2026-02-17 14:55:11 [main] INFO  Log - Browser setup started
+2026-02-17 14:55:14 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:55:14 [main] INFO  Log - Headless mode: true
+2026-02-17 14:55:15 [main] INFO  Log - Launching browser
+2026-02-17 14:55:22 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:55:26 [main] INFO  Log - Closing browser
+2026-02-17 14:55:26 [main] INFO  Log - Browser setup started
+2026-02-17 14:55:26 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:55:26 [main] INFO  Log - Headless mode: true
+2026-02-17 14:55:27 [main] INFO  Log - Launching browser
+2026-02-17 14:55:29 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:55:33 [main] INFO  Log - Closing browser
+2026-02-17 14:55:33 [main] INFO  Log - Browser setup started
+2026-02-17 14:55:33 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:55:33 [main] INFO  Log - Headless mode: true
+2026-02-17 14:55:34 [main] INFO  Log - Launching browser
+2026-02-17 14:55:36 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:55:40 [main] INFO  Log - Closing browser
+2026-02-17 14:55:40 [main] INFO  Log - Browser setup started
+2026-02-17 14:55:40 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:55:40 [main] INFO  Log - Headless mode: true
+2026-02-17 14:55:41 [main] INFO  Log - Launching browser
+2026-02-17 14:55:45 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:55:51 [main] INFO  Log - Closing browser
+2026-02-17 14:55:52 [main] INFO  Log - Browser setup started
+2026-02-17 14:55:52 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:55:52 [main] INFO  Log - Headless mode: true
+2026-02-17 14:55:53 [main] INFO  Log - Launching browser
+2026-02-17 14:55:54 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:55:56 [main] INFO  Log - Closing browser
+2026-02-17 14:55:56 [main] INFO  Log - Browser setup started
+2026-02-17 14:55:56 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:55:56 [main] INFO  Log - Headless mode: true
+2026-02-17 14:55:57 [main] INFO  Log - Launching browser
+2026-02-17 14:56:00 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:56:02 [main] INFO  Log - Closing browser
+2026-02-17 14:56:02 [main] INFO  Log - Browser setup started
+2026-02-17 14:56:02 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:56:02 [main] INFO  Log - Headless mode: true
+2026-02-17 14:56:03 [main] INFO  Log - Launching browser
+2026-02-17 14:56:06 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:56:12 [main] INFO  Log - Closing browser
+2026-02-17 14:56:12 [main] INFO  Log - Browser setup started
+2026-02-17 14:56:12 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:56:12 [main] INFO  Log - Headless mode: true
+2026-02-17 14:56:13 [main] INFO  Log - Launching browser
+2026-02-17 14:56:15 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:56:21 [main] INFO  Log - Closing browser
+2026-02-17 14:56:21 [main] INFO  Log - Browser setup started
+2026-02-17 14:56:21 [main] INFO  Log - Browser selected: firefox
+2026-02-17 14:56:21 [main] INFO  Log - Headless mode: true
+2026-02-17 14:56:22 [main] INFO  Log - Launching browser
+2026-02-17 14:56:27 [main] INFO  Log - Navigated to URL: https://www.allstate.com
+2026-02-17 14:56:32 [main] INFO  Log - Closing browser
