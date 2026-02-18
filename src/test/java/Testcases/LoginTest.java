@@ -18,6 +18,7 @@ public class LoginTest extends BaseTest{
 	    loginPage.login(user, pass);
 	    Log.logger.info("checking jenkins job");
 	    Log.logger.info("connection between github and jenkins");
+	    Log.logger.info("connection between github and jenkins added webhook");
 	}
 	
 }
